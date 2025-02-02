@@ -1,0 +1,19 @@
+{
+  "name": "Solana",
+  "description": "The Solana token.",
+  "image": "https://example.com/images/sol.png",
+  "attributes": [
+    {
+      "trait_type": "Blockchain",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "SOL"
+    },
+    {
+      "trait_type": "Speed",
+      "value": "Fast"
+    }
+  ]
+}
