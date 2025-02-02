@@ -1,0 +1,19 @@
+{
+  "name": "Bitcoin",
+  "description": "The Bitcoin token.",
+  "image": "https://example.com/images/btc.png",
+  "attributes": [
+    {
+      "trait_type": "Blockchain",
+      "value": "Bitcoin"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "BTC"
+    },
+    {
+      "trait_type": "Supply",
+      "value": "21 Million"
+    }
+  ]
+}
