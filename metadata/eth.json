@@ -1,0 +1,11 @@
+{
+  "name": "Ethereum",
+  "description": "The Ethereum token.",
+  "image": "https://example.com/images/eth.png",
+  "attributes": [
+    {
+      "trait_type": "Blockchain",
+      "value": "Ethereum"
+    }
+  ]
+}
